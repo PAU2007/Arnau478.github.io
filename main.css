@@ -1,4 +1,7 @@
-.menu{
+nav{
   background: #5555ff;
-  color: #ffffff;
+}
+
+a{
+  color: white;
 }

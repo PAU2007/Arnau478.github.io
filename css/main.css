@@ -1,0 +1,72 @@
+body{
+    background: #cccccc;
+}
+
+.menu{
+    background: #5555ff;
+    color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 10px;
+}
+
+a.aMenu, .separadorMenu{
+    font-size: 32px;
+    display:inline;
+}
+
+a.aMenu:link {
+    text-decoration: none;
+    color: white;
+}
+
+a.aMenu:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a.aMenu:hover {
+    text-decoration: none;
+    color: red;
+}
+
+a.aMenu:active {
+    text-decoration: underline;
+    color: red;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+img{
+    margin: 10px;
+}
+
+.daltDelMenu{
+    background: #ffeeee;
+    text-align: center;
+}
+
+button{
+    border-radius: 5px;
+    color: red;
+    border-color: coral;
+    padding: 5px;
+    width: 120px;
+    cursor: pointer;
+}
+
+button:hover{
+    border-radius: 5px;
+    color: red;
+    border-color: gold;
+    padding: 5px;
+    width: 120px;
+}
+
+a.aDownload{
+    color: red;
+    text-decoration: none;
+}
